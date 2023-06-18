@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sarah Edo",
+      "avatarURL": "https://pluralsight.imgix.net/author/lg/6f77d113-ea36-4592-814d-9d4acb32f231.jpg",
+      "answers": {
+        "field1": "optionOne",
+        "field2": "optionOne",
+        "field3": "optionTwo",
+        "field4": "optionTwo"
+      },
+      "questions": [
+        "question1",
+        "question2"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sarah Edo3",
+      "avatarURL": "https://pluralsight3.imgix.net/author/lg/6f77d113-ea36-4592-814d-9d4acb32f231.jpg",
+      "answers": {
+        "field1": "optionOne3",
+        "field2": "optionOne3",
+        "field3": "optionTwo3",
+        "field4": "optionTwo3"
+      },
+      "questions": [
+        "question13",
+        "question23"
+      ]
+    },
+    {
+      "avatarURL": "testerss",
+      "name": "Alejandross",
+      "id": 5
+    },
+    {
+      "answers.field1": "option6",
+      "avatarURL": "testerss6",
+      "name": "Alejandross6",
+      "id": 6
+    },
+    {
+      "answers.field1": "option6",
+      "avatarURL": "testerss6",
+      "name": "Alejandross6",
+      "id": 7
+    },
+    {
+      "avatarURL": "testerss6",
+      "answers{field1}": "option6",
+      "name": "Alejandross6",
+      "id": 8
+    },
+    {
+      "name": "Alejandross6",
+      "avatarURL": "testerss6",
+      "answers": {
+        "field1": null,
+        "field2": null,
+        "field3": null,
+        "field4": null
+      },
+      "id": 9
+    },
+    {
+      "name": "Alejandross6",
+      "avatarURL": "testerss6",
+      "answers": {
+        "field1": null,
+        "field2": null,
+        "field3": null,
+        "field4": null
+      },
+      "id": 10
+    },
+    {
+      "name": "Alejandross6",
+      "avatarURL": "testerss6",
+      "answers": {
+        "field1": "OptionOne",
+        "field2": "OptionTwo",
+        "field3": "OptionThree",
+        "field4": "OptionFour"
+      },
+      "id": 11
+    },
+    {
+      "name": "Alejandross6",
+      "avatarURL": "testerss6",
+      "answers": {
+        "field1": "OptionOne",
+        "field2": "OptionTwo",
+        "field3": "OptionThree",
+        "field4": "OptionFour"
+      },
+      "questions": [
+        "question15",
+        "question25"
+      ],
+      "id": 12
+    }
+  ]
+}
